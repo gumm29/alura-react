@@ -1,8 +1,9 @@
 {
   "name": "aluracord",
   "version": "1.0.0",
-  "description": "",
+  "description": "projeto imersao react alura",
   "main": "index.js",
+  "repository": {"directory": "https://github.com/gumm29/aluracord-react.git" },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "next dev",
